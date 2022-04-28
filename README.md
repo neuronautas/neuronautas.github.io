@@ -1,2 +1,2 @@
 # neuronautas.github.io
-A training programme for new explorers of the unknown
+A training programme for new explorers of the unknown. We are currently in our third edition. 
