@@ -12,13 +12,13 @@ hide_title: false
   </div>
   <div class="splash-block-wide">
     <div class="splash-text-main">
-      <a class="ex1" href="https://forms.gle/6mHJm5H2Kzr56eq98" target="_blank">
-        <p class="ex4 title-button__shadow"><span style="font-size: 3em; line-height: 1.5em;">Candidata-te até: 27.5.2022</span><br/>Clica aqui e preenche o curto formulário. Boa sorte!</p>
+      <a class="ex1" href="https://forms.gle/d93pMUEKacuUDqfU9" target="_blank">
+        <p class="ex4 title-button__shadow"><span style="font-size: 3em; line-height: 1.5em;">Candidata-te até: 30.6.2023</span><br/>Clica aqui e preenche o curto formulário. Boa sorte!</p>
       </a>
-      <p class="ex0">Os Neuronautas estão de volta! <br/>Esta Academia Gulbenkian do Conhecimento procura jovens prontos para embarcar numa viagem ao futuro da Neurociência!</p> 
-      <p class="ex1">Prepara-te para viajar até a um futuro próximo, quando os humanos usam ferramentas e equipamento de acesso aberto e enfrentam grandes desafios!</p>
-      <p class="ex2">As candidaturas estão abertas a jovens, entre os 15 e os 17 anos e, este ano, poderás escolher entre duas opções: </p>
-      <p class="ex3"><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooLongo.pdf" target="_blank">VOO LONGO</a>  - 2 semanas no Centro Champalimaud em Lisboa <br/><br/><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooCurto.pdf" target="_blank">VOO CURTO</a> - 1 semana online</p>
+      <p class="ex0">Os Neuronautas estão de volta para mais uma edição!</p> 
+      <p class="ex1">Prepara-te para viajar até um futuro próximo, onde os humanos recorrem a  ferramentas e equipamento de acesso aberto para  enfrentarem grandes desafios!</p>
+      <p class="ex2">As candidaturas estão abertas a jovens a frequentar o ensino secundário (10º/11º/12º anos) e podem escolher entre as duas modalidades desta academia: </p>
+      <p class="ex3"><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooLongo.pdf" target="_blank">VOO PRESENCIAL</a>  - 2 semanas no Centro Champalimaud em Lisboa <br/><br/><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooCurto.pdf" target="_blank">VOO ONLINE</a> - 2 semanas online</p>
     </div>
   </div>
 </div>
