@@ -7,7 +7,7 @@ hide_title: false
 
 <div class="splash-header-Blue">
   <div class="splash-image-large"> 
-    <img src="/assets/images/Neuronautas2022CommMaterial_SiteBanner.svg" />
+    <img src="/assets/images/Neuronautas2023_SiteBanner.svg" />
     <br/>
   </div>
   <div class="splash-block-wide">
