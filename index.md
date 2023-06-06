@@ -15,7 +15,7 @@ hide_title: false
       <a class="ex1" href="https://forms.gle/d93pMUEKacuUDqfU9" target="_blank">
         <p class="ex4 title-button__shadow"><span style="font-size: 3em; line-height: 1.5em;">Candidata-te até: 30.6.2023</span><br/>Clica aqui e preenche o curto formulário. Boa sorte!</p>
       </a>
-      <p class="ex0">Os Neuronautas estão de volta para mais uma edição!</p> 
+      <p class="ex0">Os Neuronautas estão de volta para mais uma edição! <br/><br/> 28 de Agosto a 9 de Setembro de 2023</p> 
       <p class="ex1">Prepara-te para viajar até um futuro próximo, onde os humanos recorrem a  ferramentas e equipamento de acesso aberto para  enfrentarem grandes desafios!</p>
       <p class="ex2">As candidaturas estão abertas a jovens a frequentar o ensino secundário (10º/11º/12º anos) e podem escolher entre as duas modalidades desta academia: </p>
       <p class="ex3"><a class="ex1" href="/assets/files/Neuronautas2023_Schedule_VooPresencial.pdf" target="_blank">VOO PRESENCIAL</a>  - 2 semanas no Centro Champalimaud em Lisboa. O foco: robótica e tinkering. <br/><br/><a class="ex1" href="/assets/files/Neuronautas2023_Schedule_VooOnline.pdf" target="_blank">VOO ONLINE</a> - 2 semanas online. O foco: storytelling e artes performativas</p>
