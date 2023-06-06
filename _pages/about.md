@@ -1,7 +1,7 @@
 ---
-title: "Quem Somos"
+title: "Academia"
 layout: splash
-permalink: /quemsomos/
+permalink: /about/
 author_profile: false
 ---
 <!-- 

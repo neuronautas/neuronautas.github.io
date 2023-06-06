@@ -256,10 +256,7 @@ compress_html:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  operators:
+  showcase:
     output: true
     permalink: /:collection/:path/
 
@@ -276,27 +273,3 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
-  # _operators
-  - scope:
-      path: ""
-      type: operators
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"

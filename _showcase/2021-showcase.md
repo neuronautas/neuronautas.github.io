@@ -1,5 +1,5 @@
 ---
-title: "Neuronautas 2021 Showcase"
+title: "Neuronautas 2021"
 layout: single
 permalink: /2021-showcase/
 author_profile: false

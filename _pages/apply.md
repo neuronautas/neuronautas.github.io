@@ -1,7 +1,7 @@
 ---
 title: "Inscreve-te"
 layout: single
-permalink: /inscrevete/
+permalink: /apply/
 author_profile: false
 ---
 
