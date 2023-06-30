@@ -13,7 +13,7 @@ hide_title: false
   <div class="splash-block-wide">
     <div class="splash-text-main">
       <a class="ex1" href="https://forms.gle/d93pMUEKacuUDqfU9" target="_blank">
-        <p class="ex4 title-button__shadow"><span style="font-size: 3em; line-height: 1.5em;">Candidata-te até: 30.6.2023</span><br/>Clica aqui e preenche o curto formulário. Boa sorte!</p>
+        <p class="ex4 title-button__shadow"><span style="font-size: 3em; line-height: 1.5em;">Candidata-te até: 15.7.2023</span><br/>Clica aqui e preenche o curto formulário. Boa sorte!</p>
       </a>
       <p class="ex0">Os Neuronautas estão de volta para mais uma edição! <br/><br/> 28 de Agosto a 9 de Setembro de 2023</p> 
       <p class="ex1">Prepara-te para viajar até um futuro próximo, onde os humanos recorrem a  ferramentas e equipamento de acesso aberto para  enfrentarem grandes desafios!</p>
